@@ -8,7 +8,7 @@ Twiittiaineistoa käytettiin tekstilouhintaan ja sille tehtiin *aihemallinnus* j
 Aihemallinnuksessa päädyttiin valitsemaan kuusi aihetta, jotka on merkitty oheisiin taulukkoihin. 
 
 | Aihe 0                  | Aihe 1              | Aihe 2                |
-|                    ---: |                ---: |                  ---: |
+|------------------------:|                ---: |                  ---: |
 | terveydenhuolto (13.28) | sähköinen (14.72)   | etälääkäri (26.48)    |
 | digitalisaatio (11.89)  | ajanvaraus (14.22)  | terveyspalvelu (2.90) |
 | digitaalinen (1.74)     | lääkemääräys (0.93) | hoito (2.66)          |
