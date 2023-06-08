@@ -7,10 +7,18 @@ Twiittiaineistoa käytettiin tekstilouhintaan ja sille tehtiin *aihemallinnus* j
 
 Aihemallinnuksessa päädyttiin valitsemaan kuusi aihetta, jotka on merkitty oheisiin taulukkoihin. 
 
-| Aihe 0                  | Aihe 1              | Aihe 2                | Aihe 3                 | Aihe 4                   |
-| :---                    |                ---: |                  ---: |                   ---: |                     ---: |
-| terveydenhuolto (13.28) | sähköinen (14.72)   | etälääkäri (26.48)    | etävastaanotto (17.01) | digiterveys (23.47)      |
-| digitalisaatio (11.89)  | ajanvaraus (14.22)  | terveyspalvelu (2.90) | lääkäri (3.83)         | digitalhealth (2.94)     |
-| digitaalinen (1.74)     | lääkemääräys (0.93) | hoito (2.66)          | potilas (1.21)         | terveysteknologia (1.34) |
-| tekoäly (1.30)          | resepti (0.85)      | lääkäri (2.19)        | vastaanotto (1.07)     | ehealth (1.14)           |
-| terveydenhuollo (1.12)  | asiointi (0.71)     | potilas (0.95)        | kännykkälääkäri (0.72) | digitaalinen (0.96)      |
+| Aihe 0                  | Aihe 1              | Aihe 2                |
+| :---                    |                ---: |                  ---: |   
+| terveydenhuolto (13.28) | sähköinen (14.72)   | etälääkäri (26.48)    |
+| digitalisaatio (11.89)  | ajanvaraus (14.22)  | terveyspalvelu (2.90) |
+| digitaalinen (1.74)     | lääkemääräys (0.93) | hoito (2.66)          |
+| tekoäly (1.30)          | resepti (0.85)      | lääkäri (2.19)        |
+| terveydenhuollo (1.12)  | asiointi (0.71)     | potilas (0.95)        |
+
+| Aihe 3                 | Aihe 4                   | Aihe 5              |
+|                   ---: |                     ---: |                ---: |
+| etävastaanotto (17.01) | digiterveys (23.47)      | terveys (12.18)     |
+| lääkäri (3.83)         | digitalhealth (2.94)     | digi (9.33)         |
+| potilas (1.21)         | terveysteknologia (1.34) | hyvinvointi (2.37)  |
+| vastaanotto (1.07)     | ehealth (1.14)           | digitaalinen (1.40) |
+| kännykkälääkäri (0.72) | digitaalinen (0.96)      | hoito (1.09)        |
