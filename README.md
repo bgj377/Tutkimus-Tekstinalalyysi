@@ -22,3 +22,5 @@ Aihemallinnuksessa päädyttiin valitsemaan kuusi aihetta, jotka on merkitty ohe
 | potilas (1.21)         | terveysteknologia (1.34) | hyvinvointi (2.37)  |
 | vastaanotto (1.07)     | ehealth (1.14)           | digitaalinen (1.40) |
 | kännykkälääkäri (0.72) | digitaalinen (0.96)      | hoito (1.09)        |
+
+Tunneanalyysi tehtiin VADER-tunnesanaston avulla. VADER on saatavilla vain englanninkielisenä, joten twiitit käännettiin englanniksi tunneanalyysia varten. Tunneanalyysi antoi kullekkin twiitille tunnearvon välille [-1, 1], jossa -1 on erittäin negatiivinen tunne ja 1 on erittäin positiivinen tunne.
