@@ -9,19 +9,19 @@ Aihemallinnuksessa päädyttiin valitsemaan kuusi aihetta, jotka on merkitty ohe
 
 | Aihe 0                  | Aihe 1              | Aihe 2                |
 | :---                    | :---                | :---                  |   
-| terveydenhuolto (13.28) | sähköinen (14.72)   | etälääkäri (26.48)    |
-| digitalisaatio (11.89)  | ajanvaraus (14.22)  | terveyspalvelu (2.90) |
-| digitaalinen (1.74)     | lääkemääräys (0.93) | hoito (2.66)          |
-| tekoäly (1.30)          | resepti (0.85)      | lääkäri (2.19)        |
-| terveydenhuollo (1.12)  | asiointi (0.71)     | potilas (0.95)        |
+| terveydenhuolto (13.53) | sähköinen (14.73)   | etälääkäri (26.49)    |
+| digitalisaatio (12.17)  | ajanvaraus (14.22)  | terveyspalvelu (2.90) |
+| digitaalinen (1.75)     | lääkemääräys (0.94) | hoito (2.66)          |
+| tekoäly (1.32)          | resepti (0.85)      | lääkäri (2.19)        |
+| lääkäri (0.83)          | asiointi (0.72)     | potilas (0.95)        |
 
 | Aihe 3                 | Aihe 4                   | Aihe 5              |
 | :---                   | :---                     | :---                |
-| etävastaanotto (17.01) | digiterveys (23.47)      | terveys (12.18)     |
-| lääkäri (3.83)         | digitalhealth (2.94)     | digi (9.33)         |
-| potilas (1.21)         | terveysteknologia (1.34) | hyvinvointi (2.37)  |
-| vastaanotto (1.07)     | ehealth (1.14)           | digitaalinen (1.40) |
-| kännykkälääkäri (0.72) | digitaalinen (0.96)      | hoito (1.09)        |
+| etävastaanotto (17.00) | digiterveys (23.58)      | terveys (12.18)     |
+| lääkäri (3.83)         | digitalhealth (2.97)     | digi (9.32)         |
+| potilas (1.21)         | terveysteknologia (1.35) | hyvinvointi (2.37)  |
+| vastaanotto (1.07)     | ehealth (1.15)           | digitaalinen (1.40) |
+| kännykkälääkäri (0.72) | digitaalinen (0.98)      | hoito (1.08)        |
 
 Tunneanalyysi tehtiin VADER-tunnesanaston avulla. VADER on saatavilla vain englanninkielisenä, joten twiitit käännettiin englanniksi tunneanalyysia varten. VADER sisältää useita taivutusmuotoja sanoista, joten tunneanalyysia varten teksti ei vaadi raskasta esiprosessointia. Ainoa tehty muunnos oli isojen kirjainten muuntaminen pieniksi. Tunneanalyysi antoi kullekkin twiitille tunnearvon välille [-1, 1], jossa -1 on erittäin negatiivinen tunne ja 1 on erittäin positiivinen tunne. Tunteille määriteltiin myös tunneluokka, jossa twiitti määritellään negatiiviseksi, jos tunnearvo <= -0,4, positiivinen, jos tunnearvo >= 0,4 ja muuten neutraali. 
 
