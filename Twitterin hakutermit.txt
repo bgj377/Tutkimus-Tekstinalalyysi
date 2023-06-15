@@ -1,3 +1,0 @@
-### Aineisto haettiin Twitteristä 20.4.2023 käyttäen allaolevia hakutermejä. Haku tehtiin Pythonin Snscrape-työkalulla. Twiittejä haettiin asettamatta julkaisupäivämääriin liittyviä aikarajoja. ###
-
-digi terveys, digitaalinen terveydenhuolto, digitalisaatio terveydenhuolto, etälääkäri, etäterveydenhuolto, etävastaanotto, sähköinen ajanvaraus, sähköinen hoito, sähköinen lääke, sähköinen lääkemääräys, sähköinen potilas, sähköinen terveydenhuolto, sähköinen terveys, terveys verkkopalvelu
